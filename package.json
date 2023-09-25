@@ -1,0 +1,12 @@
+{
+  "name": "to-do-list-application",
+  "version": "1.0.0",
+  "description": "A simple to-do list application",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ahmeed aminn known as Scar7",
+  "license": "MIT"
+}
